@@ -54,7 +54,7 @@ Graduated May 2023
 
 ## Certifications
 
-- 3D printed Certified
+- 3D printing Certified at The Spark
 
 ## Interests
 
