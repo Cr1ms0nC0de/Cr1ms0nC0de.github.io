@@ -29,7 +29,10 @@ I'm planning in either having a career related to Software Development or Artifi
 
 Throughout highschool I took almost all of the Computer Science related classes, including Computer Science 1-3, 2 being AP Computer Science, Video Game Programming 1-2, and Mobile Application Development. I also made a mod for the game ROUNDS that has over 66 thousand downloads. 
 
-I'm looking to build my network and generally get more job experience, either that be a normal job or an internship.
+I'm looking to build my network and generally get job experience. 
+
+I've never had a traditional job, but during my junior year of high school, I enrolled in a class called Culinary Arts. This class provided a hands-on experience simulating various aspects of real employment, including tasks like cleaning, dishwashing, catering, and working as a cashier. Surprisingly, we had minimal guidance throughout these activities, and we even got community service hours if we asked for it. If you'd like more details, please feel free to ask.
+
 
 ## Education
 
@@ -50,7 +53,11 @@ Graduated May 2023
 
 ## Skills
 
-- List relevant technical and soft skills.
+- Good written and oral communication skills
+- Fast learner for computer programs, willing to properly learn Excel and other Microsoft Office Products
+- Knows how to move and then setup a computer again
+- Able to work with others
+- Good customer service related skills
 
 ## Certifications
 
@@ -58,7 +65,10 @@ Graduated May 2023
 
 ## Interests
 
-- Mention any hobbies or interests outside of work.
+- Programming
+- 3D printing
+- Video games
+- Anime
 
 ---
 *References available upon request.*
