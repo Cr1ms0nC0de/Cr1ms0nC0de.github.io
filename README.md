@@ -31,7 +31,7 @@ Throughout highschool I took almost all of the Computer Science related classes,
 
 I'm looking to build my network and generally get job experience. 
 
-I've never had a traditional job, but during my junior year of high school, I enrolled in a class called Culinary Arts. This class provided a hands-on experience simulating various aspects of real employment, including tasks like cleaning, dishwashing, catering, and working as a cashier. Surprisingly, we had minimal guidance throughout these activities, and we even got community service hours if we asked for it. If you'd like more details, please feel free to ask.
+I've never had a traditional job, but during my junior year of high school, I enrolled in a class called Culinary Arts. This class provided a hands-on experience simulating various aspects of real employment, including tasks like cleaning, dishwashing, catering, and working as a cashier. We had minimal guidance throughout these activities, and we even got community service hours if we asked for it. If you'd like more details, please feel free to ask.
 
 
 ## Education
