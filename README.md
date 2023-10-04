@@ -13,8 +13,6 @@
 - [Projects](#projects)
 - [Skills](#skills)
 - [Certifications](#certifications)
-- [Awards](#awards)
-- [Languages](#languages)
 - [Interests](#interests)
 
 <div style="clear: both;"></div> <!-- Add this to clear the float -->
@@ -27,13 +25,14 @@ A brief summary or objective statement about yourself.
 
 ## Education
 
-### Bachelor of Science in Computer Science
-**University Name** - City, State
-*Month Year - Month Year*
+### Bachelor of Computer Science
+**University of North Texas** - Denton, TX
+*May - 2027*
+*Current pursuing*
 
 ### High School Diploma
-**High School Name** - City, State
-*Month Year - Month Year*
+**Lone Star High School** - Frisco, TX
+*May - 2023*
 
 ## Projects
 
@@ -53,15 +52,7 @@ A brief summary or objective statement about yourself.
 
 ## Certifications
 
-- List any certifications you have obtained.
-
-## Awards
-
-- List any awards or honors you have received.
-
-## Languages
-
-- List languages you are proficient in.
+- 3D printed Certified
 
 ## Interests
 
