@@ -2,8 +2,8 @@
 
 [My Email](nolanwilkins1@my.unt.edu) | [My GitHub](https://github.com/Cr1ms0nC0de)
 
-<div style="position: relative;">
-    <img src="images/me.jpg" alt="Your Name's Picture" width="150px" style="position: absolute; top: 0; right: 0;">
+<div style="float: right; margin: 10px;">
+    <img src="images/me.jpg" alt="Your Name's Picture" width="150px">
 </div>
 
 ## Table of Contents
