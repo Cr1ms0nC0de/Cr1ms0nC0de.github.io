@@ -2,8 +2,8 @@
 
 [My Email](nolanwilkins1@my.unt.edu) | [My GitHub](https://github.com/Cr1ms0nC0de)
 
-<div style="position: absolute; top: 50px; right: 10px;">
-    <img src="images/me.jpg" alt="Your Name's Picture" width="150px">
+<div style="position: relative;">
+    <img src="images/me.jpg" alt="Your Name's Picture" width="150px" style="position: absolute; top: 20px; right: 10px;">
 </div>
 
 ## Table of Contents
@@ -16,6 +16,8 @@
 - [Awards](#awards)
 - [Languages](#languages)
 - [Interests](#interests)
+
+<div style="clear: both;"></div> <!-- Add this to clear the float -->
 
 ---
 
