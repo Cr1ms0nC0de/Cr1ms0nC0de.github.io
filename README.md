@@ -23,7 +23,13 @@
 
 ## About
 
-A brief summary or objective statement about yourself.
+Hello, my name is Nolan Wilkins and I'm a Computer Science major who goes to The University of North Texas and will graduate with a Bachelor's degree in Spring 2027, but I'm planning on getting a masters.
+
+I'm planning in either having a career related to Software Development or Artificial Intelligence.
+
+Throughout highschool I took almost all of the Computer Science related classes, including Computer Science 1-3, 2 being AP Computer Science, Video Game Programming 1-2, and Mobile Application Development. I also made a mod for the game ROUNDS that has over 66 thousand downloads. 
+
+I'm looking to build my network and generally get more job experience, either that be a normal job or an internship.
 
 ## Education
 
