@@ -35,12 +35,11 @@ I'm looking to build my network and generally get more job experience, either th
 
 ### Bachelor of Computer Science
 **University of North Texas** - Denton, TX
-*May - 2027*
-*Current pursuing*
+*Graduating May 2027*
 
 ### High School Diploma
 **Lone Star High School** - Frisco, TX
-*May - 2023*
+*Graduated May 2023*
 
 ## Projects
 
