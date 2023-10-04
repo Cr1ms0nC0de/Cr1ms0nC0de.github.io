@@ -2,7 +2,9 @@
 
 [My Email](nolanwilkins1@my.unt.edu) | [My GitHub](https://github.com/Cr1ms0nC0de)
 
-![Your Name's Picture](images/me.jpg)
+<div style="float: right; margin: 10px;">
+    <img src="images/me.jpg" alt="Your Name's Picture" width="150px">
+</div>
 
 ## Summary
 
