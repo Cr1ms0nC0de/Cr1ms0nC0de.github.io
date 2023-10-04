@@ -1,5 +1,5 @@
 <div style="float: right; margin: 10px;">
-    <img src="your_image_url_here.jpg" alt="Your Name's Picture" width="150px">
+    <img src="images/me.jpg" alt="Your Name's Picture" width="150px">
 </div>
 
 # Your Name
