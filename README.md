@@ -44,15 +44,10 @@ Graduated May 2023
 
 ## Projects
 
-### Project 1 Name
-*Month Year - Month Year*
-- Briefly describe the project and your role.
-- Provide any relevant links or resources.
-
-### Project 2 Name
-*Month Year - Month Year*
-- Briefly describe the project and your role.
-- Provide any relevant links or resources.
+### 3D Printing
+*September 2023 - Current*
+- I've Done a lot of 3D printing over the past couple of months, here is the link to the images/files for them
+- [Google Drive](https://drive.google.com/drive/folders/19Y5tOSXMplp0P0fZkOp17yYzAfSY8I4H?usp=sharing)
 
 ## Skills
 
