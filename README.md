@@ -1,10 +1,8 @@
-<div style="float: right; margin: 10px;">
-    <img src="images/me.jpg" alt="Your Name's Picture" width="150px">
-</div>
+# Nolan Wilkins
 
-# Your Name
+[My Email](nolanwilkins1@my.unt.edu) | [My GitHub](https://github.com/Cr1ms0nC0de)
 
-[Your Email](mailto:youremail@example.com) | [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [Your GitHub](https://github.com/yourgithub)
+![Your Name's Picture](images/me.jpg)
 
 ## Summary
 
