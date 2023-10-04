@@ -46,8 +46,7 @@ Graduated May 2023
 
 ### 3D Printing
 *September 2023 - Current*
-- I've Done a lot of 3D printing over the past couple of months, here is the link to the images/files for them
-- [Google Drive](https://drive.google.com/drive/folders/19Y5tOSXMplp0P0fZkOp17yYzAfSY8I4H?usp=sharing)
+- I've done a lot of 3D printing over the past couple of months, here is the link to the images/files for them: [Google Drive](https://drive.google.com/drive/folders/19Y5tOSXMplp0P0fZkOp17yYzAfSY8I4H?usp=sharing)
 
 ## Skills
 
