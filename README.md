@@ -17,8 +17,6 @@
 - [Languages](#languages)
 - [Interests](#interests)
 
-<div style="clear: both;"></div> <!-- Add this to clear the float -->
-
 ---
 
 ## About
