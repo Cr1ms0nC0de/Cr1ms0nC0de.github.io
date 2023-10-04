@@ -1,3 +1,7 @@
+<div style="float: right; margin: 10px;">
+    <img src="your_image_url_here.jpg" alt="Your Name's Picture" width="150px">
+</div>
+
 # Your Name
 
 [Your Email](mailto:youremail@example.com) | [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [Your GitHub](https://github.com/yourgithub)
