@@ -6,10 +6,16 @@
     <img src="images/me.jpg" alt="Your Name's Picture" width="150px">
 </div>
 
-## Summary
+- [About Me](#about)
+- [Education](#education)
+- [Projects](#projects)
+
+<a name="about"></a>
+## About Me
 
 A brief summary or objective statement about yourself.
 
+<a name="education"></a>
 ## Education
 
 ### Bachelor of Science in Computer Science
@@ -20,18 +26,7 @@ A brief summary or objective statement about yourself.
 **High School Name** - City, State
 *Month Year - Month Year*
 
-## Experience
-
-### Job Title 1
-**Company Name** - City, State
-*Month Year - Present*
-- Describe your responsibilities and achievements in this role.
-
-### Job Title 2
-**Company Name** - City, State
-*Month Year - Month Year*
-- Describe your responsibilities and achievements in this role.
-
+<a name="projects"></a>
 ## Projects
 
 ### Project 1 Name
