@@ -33,9 +33,10 @@ I'm looking to build my network and generally get more job experience, either th
 
 ## Education
 
-### Bachelor of Computer Science
-**<strong>University of North Texas</strong>** - Denton, TX
-**<strong>Graduating May 2027</strong>**
+### **Bachelor of Computer Science**  
+**University of North Texas** - Denton, TX  
+**Graduating May 2027**
+
 
 ### High School Diploma
 **Lone Star High School** - Frisco, TX
