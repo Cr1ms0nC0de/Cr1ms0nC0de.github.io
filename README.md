@@ -6,13 +6,20 @@
     <img src="images/me.jpg" alt="Your Name's Picture" width="150px">
 </div>
 
-<div style="position: fixed; top: 0; left: 0; right: 0; background-color: #333; color: #fff; padding: 10px; z-index: 1;">
-    <a href="about.md" style="color: #fff; text-decoration: none; margin-right: 20px;">About</a>
-    <a href="education.md" style="color: #fff; text-decoration: none; margin-right: 20px;">Education</a>
-    <a href="projects.md" style="color: #fff; text-decoration: none; margin-right: 20px;">Projects</a>
-</div>
+## Table of Contents
 
-## Summary
+- [About](#about)
+- [Education](#education)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Certifications](#certifications)
+- [Awards](#awards)
+- [Languages](#languages)
+- [Interests](#interests)
+
+---
+
+## About
 
 A brief summary or objective statement about yourself.
 
@@ -25,18 +32,6 @@ A brief summary or objective statement about yourself.
 ### High School Diploma
 **High School Name** - City, State
 *Month Year - Month Year*
-
-## Experience
-
-### Job Title 1
-**Company Name** - City, State
-*Month Year - Present*
-- Describe your responsibilities and achievements in this role.
-
-### Job Title 2
-**Company Name** - City, State
-*Month Year - Month Year*
-- Describe your responsibilities and achievements in this role.
 
 ## Projects
 
