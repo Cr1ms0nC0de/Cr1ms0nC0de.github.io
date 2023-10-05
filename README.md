@@ -4,6 +4,8 @@
 
 **GitHub:** [Cr1ms0nC0de](https://github.com/Cr1ms0nC0de)
 
+**On Campus Student Employment Application and School Schedule:** [Application](https://drive.google.com/file/d/1m3EPvUQuWv7-VUiYdOmoTBTgL7jck5kY/view?usp=sharing)
+
 <div style="position: relative;">
     <img src="images/me.jpg" alt="Your Name's Picture" width="150px" style="position: absolute; top: 50px; right: 10px;">
 </div>
