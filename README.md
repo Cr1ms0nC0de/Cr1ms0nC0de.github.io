@@ -4,7 +4,7 @@
 
 **GitHub:** [Cr1ms0nC0de](https://github.com/Cr1ms0nC0de)
 
-**Phone Number: ** 9729782030
+**Phone Number:** 9729782030
 
 <div style="position: relative;">
     <img src="images/me.jpg" alt="Your Name's Picture" width="150px" style="position: absolute; top: 50px; right: 10px;">
