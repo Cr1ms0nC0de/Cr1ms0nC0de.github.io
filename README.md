@@ -66,7 +66,10 @@ Graduated May 2023
 
 ## Certifications
 
-- 3D printing Certified at The Spark
+- 3D printing Certified at The Spark on 9/25/2023
+- Cricut and Design Space Certified at The Spark on 10/11/2023
+- Multi-Needle Embroidery Machine Certified at The Spark on 10/17/2023
+- Recording Booth Certified at The Spark on 10/17/2023
 
 ## Interests
 
