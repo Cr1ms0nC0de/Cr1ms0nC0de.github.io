@@ -32,10 +32,11 @@ I'm planning in either having a career related to Software Development or Artifi
 Throughout highschool I took almost all of the Computer Science related classes, including Computer Science 1-3, 2 being AP Computer Science, Video Game Programming 1-2, and Mobile Application Development. I also made a mod for the game ROUNDS that has over 66 thousand downloads. 
 
 I'm looking to build my network and generally get job experience. 
-I'm currently wanting a job as soon as possible for Fall 2023.
+I'm currently wanting a job as soon as possible for Spring 2024.
 
 I've never had a traditional job, but recently I became an Independent Contractor for both DoorDash and Instacart.
 during my junior year of high school, I enrolled in a class called Culinary Arts. This class provided a hands-on experience simulating various aspects of culinary related employment, including tasks like cleaning, dishwashing, catering, and working as a cashier. We had minimal guidance throughout these activities, and we even got community service hours if we asked for it. If you'd like more details, please feel free to ask.
+
 
 ## Education
 
@@ -47,11 +48,13 @@ Graduating May 2027
 *Lone Star High School* - Frisco, TX  
 Graduated May 2023
 
+
 ## Work Experience
 
 *Doordash Driver* - Since December 2023
 
 *Instacart Shopper* - Since Decemeber 2023
+
 
 ## Projects
 
