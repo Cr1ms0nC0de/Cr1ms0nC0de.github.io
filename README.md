@@ -52,10 +52,10 @@ Graduated May 2023
 
 ## Work
 
-*Doordash Driver*
+*Doordash Driver*  
 Since December 2023
 
-*Instacart Shopper*
+*Instacart Shopper*  
 Since Decemeber 2023
 
 
