@@ -14,7 +14,7 @@
 
 - [About](#about)
 - [Education](#education)
-- [Work Experience](#workexperience)
+- [Work Experience](#work)
 - [Projects](#projects)
 - [Skills](#skills)
 - [Certifications](#certifications)
@@ -50,7 +50,7 @@ Graduating May 2027
 Graduated May 2023
 
 
-## Work Experience
+## Work
 
 *Doordash Driver* - Since December 2023
 
