@@ -14,7 +14,7 @@
 
 - [About](#about)
 - [Education](#education)
-- [Work Experience](#work experience)
+- [Work Experience](#work_experience)
 - [Projects](#projects)
 - [Skills](#skills)
 - [Certifications](#certifications)
