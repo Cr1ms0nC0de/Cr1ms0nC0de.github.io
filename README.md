@@ -36,8 +36,7 @@ I'm looking to build my network and generally get job experience.
 I'm currently wanting a job as soon as possible for Spring 2024.
 
 I've never had a traditional job, but recently I became an Independent Contractor for both DoorDash and Instacart.
-during my junior year of high school, I enrolled in a class called Culinary Arts. This class provided a hands-on experience simulating various aspects of culinary related employment, including tasks like cleaning, dishwashing, catering, and working as a cashier. We had minimal guidance throughout these activities, and we even got community service hours if we asked for it. If you'd like more details, please feel free to ask.
-
+during my junior year of high school, I enrolled in a class called Culinary Arts. This class provided a hands-on experience simulating various aspects of culinary related employment, including tasks like cleaning, dishwashing, catering, and working as a cashier. We had minimal guidance throughout these activities, and we even got community service hours if we asked for it. If you'd like more details, please feel free to ask. The class was 3 hours every 2 school days so, 2 days 1 week and 3 days the next week. The class was for the entire school year
 
 ## Education
 
@@ -53,10 +52,10 @@ Graduated May 2023
 ## Work
 
 *Doordash Driver*  
-Since December 2023
+December 2023 - January 2024
 
 *Instacart Shopper*  
-Since Decemeber 2023
+December 2023 - January 2024
 
 
 ## Projects
@@ -68,20 +67,25 @@ Since Decemeber 2023
 ## Skills
 
 - Good written and oral communication skills
-- Fast learner for computer programs, willing to properly learn Excel, other Microsoft Office Products, and a lot of other things
+- Fast learner for computer programs
+- Can work in a fast-paced environment
 - Knows how to move and then setup a computer again
 - Able to work with others
-- Good customer service related skills
-- 10+ years Windows experience, some Mac
+- Very good at working independently
+- Good customer service related skills, gained a lot from Culinary Arts
+- 15+ years Windows experience, some Mac
 - Reliable, responsible, and has a strong work ethic
+- Use various programs for communication, such as Microsoft Teams and Outlook
+- Shelve books in call number using Library of Congress call number system
+- Can clean
 
 ## Certifications
 
-- 3D printing Certified at The Spark on 9/25/2023
+- 3D printing Certified at The Spark on 9/25/2023, again on 02/05/2024
 - Cricut and Design Space Certified at The Spark on 10/11/2023
 - Multi-Needle Embroidery Machine Certified at The Spark on 10/17/2023
 - Recording Booth Certified at The Spark on 10/17/2023
-- Lasercutter Certified at The Spark on 10/24/2023
+- Lasercutter Certified at The Spark on 10/24/2023, again on 02/09/2024
 
 ## Interests
 
