@@ -30,7 +30,7 @@ Hello, my name is Nolan Wilkins and I'm a Computer Science major who goes to The
 
 I'm planning in either having a career related to Software Development or Artificial Intelligence.
 
-Throughout highschool I took almost all of the Computer Science related classes, including Computer Science 1-3, 2 being AP Computer Science, Video Game Programming 1-2, and Mobile Application Development. I also made a mod for the game ROUNDS that has over 66 thousand downloads. 
+Throughout highschool I took almost all of the Computer Science related classes, including Computer Science 1-3, 2 being AP Computer Science, Video Game Programming 1-2, and Mobile Application Development. I also made a mod for the game ROUNDS that has over 85,000 downloads. 
 
 I'm looking to build my network and generally get job experience. 
 I'm currently wanting a job as soon as possible for Spring 2024.
