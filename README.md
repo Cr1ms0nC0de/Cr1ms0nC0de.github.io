@@ -52,10 +52,10 @@ Graduated May 2023
 ## Work
 
 ### Super Paws Pet Care  
-*Super Paws Pet Care Grandscape Doggie Daycare Attendant*
+*Super Paws Pet Care Grandscape Doggie Daycare Attendant*   
 July 1st 2024 - July 16th 2024
-###
-*Super Paws Pet Care Little Elm/Frisco Pet Sitter/Dog Walker*
+
+*Super Paws Pet Care Little Elm/Frisco Pet Sitter/Dog Walker*   
 July 18th 2024 - August 16th 2024?
 
 ### Other
