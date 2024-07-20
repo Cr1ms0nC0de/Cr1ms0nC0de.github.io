@@ -32,11 +32,9 @@ I'm planning in either having a career related to Software Development or Artifi
 
 Throughout highschool I took almost all of the Computer Science related classes, including Computer Science 1-3, 2 being AP Computer Science, Video Game Programming 1-2, and Mobile Application Development. I also made a mod for the game ROUNDS that has over 85,000 downloads. 
 
-I'm looking to build my network and generally get job experience. 
-I'm currently wanting a job as soon as possible for Spring 2024.
+I'm looking to build my network and generally get more job experience. 
+I'm currently wanting a job as soon as possible for Summer/Fall 2024.
 
-I've never had a traditional job, but recently I became an Independent Contractor for both DoorDash and Instacart.
-During my junior year of high school, I enrolled in a class called Culinary Arts. This class provided a hands-on experience simulating various aspects of culinary related employment, including tasks like cleaning, dishwashing, catering, and working as a cashier. We had minimal guidance throughout these activities, and we even got community service hours if we asked for it. If you'd like more details, please feel free to ask. The class was 3 hours every 2 school days so, 2 days 1 week and 3 days the next week. The class was for the entire school year
 
 ## Education
 
